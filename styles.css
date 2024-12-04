@@ -8,6 +8,7 @@
 
 .text {
   max-width: 50%; 
+  background-color: beige;
 }
 
 .image img {
