@@ -20,3 +20,26 @@
 }
 
 
+.first-paragraph.div {
+ 
+    position: relative;
+    max-width: 900px; 
+    margin: auto;
+    overflow: hidden; 
+    
+  }
+  
+  
+  .imagen {
+    display: flex;
+    align-items: center;
+    padding: 20px;
+    transition: transform 0.5s ease-in-out; 
+  }
+  
+  .text {
+    width: 50%;
+    color: #000000;
+    
+  }
+
