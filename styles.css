@@ -4,9 +4,9 @@ body {
     padding: 0;
   }
   
-  .first-paragraph-div {
+  .first-paragraph-divu {
     position: relative;
-    display: flex;
+   
     background-color: #ffffff;
     color: #000000;
     font-weight: normal;
