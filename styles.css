@@ -14,3 +14,30 @@
 }
  
   
+.container {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 8px;
+  margin-right: 18px;
+  
+  
+}
+
+
+.imagen {
+ display: flex
+
+;
+  
+
+
+}
+
+.text-content {
+  width: 90%;
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  
+}
