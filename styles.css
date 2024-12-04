@@ -20,26 +20,5 @@
 }
 
 
-.first-paragraph.div {
- 
-    position: relative;
-    max-width: 900px; 
-    margin: auto;
-    overflow: hidden; 
-    
-  }
-  
-  
-  .imagen {
-    position: relative;
-    align-items: center;
-    padding: 20px;
-    
-  }
-  
-  .text {
-    width: 50%;
-    color: #000000;
-    
-  }
+
 
