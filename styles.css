@@ -22,7 +22,12 @@ body {
   
   .text {
     max-width: 50%; 
+    text-align: center;
     background-color: beige;
+    margin-top: auto;
+    margin-bottom: auto;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   .image img {
