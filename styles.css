@@ -1,21 +1,22 @@
-.body {
-    font-family: arial,sans-serif;
+body {
+    font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-}
-.first-paragraph-div {
-    display: flex;
-    align-items:center;
-    justify-content: space-between;
+  }
+  
+  .container {
+    display: flex; /* Esto pone los elementos en línea */
+    align-items: center; /* Alinea verticalmente */
+    justify-content: space-between; /* Espacia los elementos */
     margin: 20px;
-
-}
-.text {
-    max-width: 50%;
-
-}
-.image img {
-    max-width: 100%;
-    height: auto;
-    border-radius: 8px;
-}
+  }
+  
+  .text {
+    max-width: 50%; /* Limita el ancho del texto */
+  }
+  
+  .image img {
+    max-width: 100%; /* La imagen no excede su contenedor */
+    height: auto; /* Mantiene la proporción de la imagen */
+    border-radius: 8px; /* Bordes redondeados opcionales */
+  }
