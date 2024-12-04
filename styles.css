@@ -23,11 +23,10 @@
 }
 
 .text {
-  display: flex;
   width: 90%;
   margin: auto;
   padding: auto;
   text-align: center;
   background-color: beige;
-  
+  justify-content: center;
 }
