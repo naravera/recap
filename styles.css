@@ -4,39 +4,6 @@ body {
     padding: 0;
   }
   
-  .first-paragraph-div {
-    position: relative;
-   
-    background-color: #ffffff;
-    color: #000000;
-    font-weight: normal;
-    font-size: 16px;
-    padding: 20px;
-    height: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-family: "Inter Tight", serif;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .text {
-    max-width: 50%; 
-    text-align: center;
-    background-color: beige;
-    margin-top: auto;
-    margin-bottom: auto;
-    margin-left: auto;
-    margin-right: auto;
-  }
-  
-  .image img {
-    max-width: 100%; 
-    height: auto; 
-    border-radius: 0px; 
-  }
-
-  
   .container {
     position: relative;
    
