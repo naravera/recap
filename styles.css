@@ -1,14 +1,21 @@
+.body {
+    font-family: arial,sans-serif;
+    margin: 0;
+    padding: 0;
+}
 .first-paragraph-div {
-    position: relative;
-    background-color: #ffffff;
-    color: #000000;
-    font-weight: normal;
-    font-size: 16px;
-    padding: 20px;
+    display: flex;
+    align-items:center;
+    justify-content: space-between;
+    margin: 20px;
+
+}
+.text {
+    max-width: 50%;
+
+}
+.image img {
+    max-width: 100%;
     height: auto;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    font-family: "Inter Tight", serif;
-    margin-left: auto;
-    margin-right: auto;
-} 
+    border-radius: 8px;
+}
