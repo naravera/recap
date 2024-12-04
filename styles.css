@@ -1,17 +1,5 @@
 
 
-.first-paragraph-div {
-
- position: relative;
- display: flex;
- margin-right: 10px;
- width: 100px;
- margin-left: auto;
- margin-top: 0px;
- margin-bottom: 15px;
- padding: auto;
- font-family: 'Times New Roman', Times, serif; 
-}
  
   
 .container {
@@ -34,8 +22,8 @@
 
 }
 
-.text-content {
-  width: 90%;
+.text {
+  width: 100%;
   margin: auto;
   padding: auto;
   text-align: center;
