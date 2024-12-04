@@ -5,18 +5,19 @@ body {
   }
   
   .container {
-    display: flex; /* Esto pone los elementos en línea */
-    align-items: center; /* Alinea verticalmente */
-    justify-content: space-between; /* Espacia los elementos */
+    display: flex;
+    align-items: center; 
+    justify-content: space-between; 
     margin: 20px;
   }
   
   .text {
-    max-width: 50%; /* Limita el ancho del texto */
+    max-width: 50%; 
+    background-color: beige;
   }
   
   .image img {
-    max-width: 100%; /* La imagen no excede su contenedor */
-    height: auto; /* Mantiene la proporción de la imagen */
-    border-radius: 8px; /* Bordes redondeados opcionales */
+    max-width: 100%; 
+    height: auto; 
+    border-radius: 0px; 
   }
