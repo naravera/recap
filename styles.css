@@ -31,10 +31,10 @@
   
   
   .imagen {
-    display: flex;
+    position: relative;
     align-items: center;
     padding: 20px;
-    transition: transform 0.5s ease-in-out; 
+    
   }
   
   .text {
