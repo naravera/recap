@@ -135,8 +135,6 @@
   h2 {
     font-size: 2rem; 
     color: #0074D9;
-    flex-direction: column;
-    font-family: 'Times New Roman', Times, serif; 
   }
   
   /* Paragraph styling */
@@ -144,8 +142,7 @@
     font-size: 1.2rem; 
     line-height: 1.8; 
     color: #333; 
-    flex-direction: column;
-    font-family: 'Times New Roman', Times, serif;
+   
   }
   
   
@@ -164,4 +161,10 @@
       line-height: 1.8;
      
     }
+  }
+
+.text {
+  flex-direction: column;
+  font-family: 'Times New Roman', Times, serif;
+ 
   }
