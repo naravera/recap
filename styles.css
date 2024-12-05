@@ -52,7 +52,7 @@
     h2 {
       font-size: 2rem; 
       color: #0074D9; 
-      padding-bottom: 50px;
+    
     }
     
     /* Paragraph styling */
@@ -60,6 +60,7 @@
       font-size: 1.2rem; 
       line-height: 1.8; 
       color: #333; 
+    
     }
     
     
@@ -137,6 +138,8 @@
     h2 {
       font-size: 2rem; 
       color: #0074D9; 
+      padding-bottom: 50px
+
     }
     
     /* Paragraph styling */
@@ -144,6 +147,8 @@
       font-size: 1.2rem; 
       line-height: 1.8; 
       color: #333; 
+      padding-top: 20px;
+      padding-bottom: 50px
     }
     
     
