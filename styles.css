@@ -91,13 +91,13 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color: beige; 
+  background-color:#c7bc6b; 
   
 }
 
 .full-width-container {
   width: 100vw; 
-  background-color: #f4f4f4; 
+  background-color: #c7bc6b; 
   display: flex;
   align-items: center; 
   justify-content: center; 
