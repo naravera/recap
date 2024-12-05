@@ -82,7 +82,7 @@
   .col-12 img {
     max-width: 100%; /* Make image responsive */
     height: auto; /* Maintain aspect ratio */
-    border-radius: 10px; /* Add slight rounding to the corners */
+   
   }
     h2 {
       font-size: 2rem; /* Adjust heading size */
