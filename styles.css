@@ -96,7 +96,8 @@
       color: #333; /* Darker gray for contrast */
     }
     
-   
+    /* Responsive design for smaller screens */
+    @media (max-width: 768px) {
       .col-12 {
         flex: 1 1 100%; /* Full width for smaller screens */
       }
