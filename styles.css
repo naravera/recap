@@ -32,3 +32,36 @@
   text-align: center;
   background-color: beige;
 }
+
+
+  
+.Firts.container.div {
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 8px;
+  margin-right: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  background-color: beige;
+  
+}
+
+
+.image {
+ display: flex
+ 
+}
+  
+
+
+
+.text-contect {
+  width: 90%;
+  margin-left: 25px;
+  margin-right: 10px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding: 20px;
+  text-align: center;
+  background-color: beige;
+}
