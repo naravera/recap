@@ -113,11 +113,10 @@
     .text {
     flex-direction: column;
     font-family: 'Times New Roman', Times, serif;
-    text-align: center;
-    justify-content: center;
+   
     }
 
-    /*Pythons Group Web*/
+    /*extra*/
  
 .first-paragraph-div
 * {
@@ -192,6 +191,10 @@
   
     p {
       font-size: 1rem; 
+      line-height: 1.8;
+      color: #333;
+      padding-top: 10px;
+      padding-bottom: 10px;
     }
   }
   .text {
