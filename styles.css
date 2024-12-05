@@ -82,7 +82,8 @@
   .col-12 img {
     max-width: 100%; /* Make image responsive */
     height: auto; /* Maintain aspect ratio */
-   
+    object-fit: cover;
+    max-height: 500px;
   }
     h2 {
       font-size: 2rem; /* Adjust heading size */
