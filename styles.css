@@ -83,7 +83,7 @@
     border-radius: 10px; /* Add slight rounding to the corners */
   }
     h2 {
-      font-size: 2rem; /* Adjust heading size */
+      font-size: medium;
       color: #0074D9; /* Use a calming blue color */
     }
     
