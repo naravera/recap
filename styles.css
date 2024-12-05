@@ -1,6 +1,6 @@
 
 
- 
+ /* color and letter practice*/
   
 .container {
   position: relative;
@@ -33,7 +33,7 @@
   background-color: beige;
 }
 
-
+/*Pythons Group Web*/
  
 .first-paragraph-div
   * {
@@ -48,11 +48,11 @@
   }
 
   .full-width-container {
-    width: 100vw; /* Full width of the viewport */
-    background-color: #f4f4f4; /* Matches the body background */
+    width: 100vw; 
+    background-color: #f4f4f4; 
     display: flex;
-    align-items: center; /* Center content vertically */
-    justify-content: center; /* Center content horizontally */
+    align-items: center; 
+    justify-content: center; 
    
   }
   
@@ -85,10 +85,6 @@
     
   }
     h2 {
-      font-size: 2rem; 
-      color: #0074D9; 
-    }
-    h1 {
       font-size: 2rem; 
       color: #0074D9; 
     }
