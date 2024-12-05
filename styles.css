@@ -195,11 +195,8 @@
       color: #333;
       padding-top: 10px;
       padding-bottom: 10px;
+      flex-direction: column;
+      font-family: 'Times New Roman', Times, serif;
+      align-items: center;
     }
-  }
-  .text {
-  flex-direction: column;
-  font-family: 'Times New Roman', Times, serif;
-  align-items: center;
-
   }
