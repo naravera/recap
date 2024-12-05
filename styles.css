@@ -88,8 +88,8 @@
 
  .first-paragraph-div
   * {
-    margin: 0;
-    padding: 0;
+    margin: 5;
+    padding: 5;
     height: 90%;
     display: flex;
     align-items: center;
@@ -138,8 +138,7 @@
     h2 {
       font-size: 2rem; 
       color: #0074D9; 
-      margin-top: 20px;
-      margin-bottom: 20px;
+     
       
 
     }
@@ -149,7 +148,7 @@
       font-size: 1rem; 
       line-height: 1.8; 
       color: #333; 
-      margin-top: 20px;
+      
      
     }
     
