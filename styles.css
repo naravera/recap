@@ -44,7 +44,7 @@
     align-items: center;
     justify-content: center;
     background-color: #f4f4f4; /* Optional background color */
-    flex-direction: column;
+    
   }
 
   .full-width-container {
@@ -53,6 +53,7 @@
     display: flex;
     align-items: center; /* Center content vertically */
     justify-content: center; /* Center content horizontally */
+    flex-direction: column;
   }
   
   .container {
