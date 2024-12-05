@@ -88,6 +88,10 @@
       font-size: 2rem; /* Adjust heading size */
       color: #0074D9; /* Use a calming blue color */
     }
+    h1 {
+      font-size: 2rem; /* Adjust heading size */
+      color: #0074D9; /* Use a calming blue color */
+    }
     
     /* Paragraph styling */
     p {
